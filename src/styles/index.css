@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	outline: none;
+	text-decoration: none;
+	list-style: none;
+	font-family: 'Monserrat', sans-serif;
+}
+
+body {
+	background-image: url(../assets/bg-01.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+html {
+	min-height: 100vh;
+}

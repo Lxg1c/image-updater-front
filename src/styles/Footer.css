@@ -1,0 +1,34 @@
+/* Footer.css */
+
+.footer {
+	background-color: #1a1b2f;
+	color: #fff;
+	padding: 35px 0;
+}
+
+.footer__container {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-around;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+.footer-logo {
+	width: 90px;
+	cursor: pointer;
+}
+
+.section-title {
+	margin-bottom: 10px;
+}
+
+.section-list {
+	list-style-type: none;
+	padding: 0;
+}
+
+.section-list__item {
+	color: var(#fff);
+}

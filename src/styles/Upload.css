@@ -1,0 +1,29 @@
+.main-upload {
+	border: 2px dashed #ccc;
+	border-radius: 10px;
+	padding: 20px;
+	text-align: center;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+.main-upload.dragging {
+	background-color: #f0f0f0;
+}
+
+.main-upload__btn {
+	background-color: #007bff;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 315px;
+}
+
+.main-upload__btn img {
+	margin-right: 10px;
+}

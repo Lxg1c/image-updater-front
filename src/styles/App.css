@@ -1,0 +1,17 @@
+#root {
+	margin: 0 auto;
+}
+
+.app {
+	height: 100vh;
+}
+
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+
+section {
+	padding: 60px 0;
+}
